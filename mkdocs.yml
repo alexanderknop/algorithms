@@ -1,5 +1,5 @@
 site_name: Alogrithms
-site_url: http://algorithms.sashaknop.com
+site_url: https://sashaknop.com/algorithms/
 repo_url: https://github.com/alexanderknop/algorithms
 nav:
     - Home: index.md
